@@ -3,5 +3,7 @@
 - Day 01 - Hello World
 - Day 02 - Input and Variables
 - Day 03 - Concatenation
+- Day 04 - Printing
 
 You can follow my progress at [Reptil/MaryllianVieira](replit.com/@maryllianbackup)
+#Replit100DaysOfCode #100DaysOfCode
