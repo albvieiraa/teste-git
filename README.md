@@ -6,6 +6,7 @@
 - Day 04 - Printing
 - Day 05 - If...else
 - Day 06 - Elif
+- Day 07 - Nesting
 
 You can follow my progress at [Reptil/MaryllianVieira](replit.com/@maryllianbackup)
 #Replit100DaysOfCode #100DaysOfCode
