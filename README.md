@@ -7,6 +7,7 @@
 - Day 05 - If...else
 - Day 06 - Elif
 - Day 07 - Nesting
+- Day 08 - Affirmation Generator
 
 You can follow my progress at [Reptil/MaryllianVieira](replit.com/@maryllianbackup)
 #Replit100DaysOfCode #100DaysOfCode
