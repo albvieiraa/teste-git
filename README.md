@@ -9,6 +9,8 @@
 - Day 07 - Nesting
 - Day 08 - Affirmation Generator
 - Day 09 - Int and Float
+- Day 10 - Code Basic Math
 
+  
 You can follow my progress at [Reptil/MaryllianVieira](replit.com/@maryllianbackup)
 #Replit100DaysOfCode #100DaysOfCode
