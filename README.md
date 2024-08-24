@@ -1,5 +1,9 @@
 # 100 Days of Code - The Complete Python Course
 
+Hundred Days of Code Challenges are great for practicing knowledge and learning more about the language.
+
+This challenge using Python was developed by David and is available on Replit.
+
 - Day 01 - Hello World
 - Day 02 - Input and Variables
 - Day 03 - Concatenation
