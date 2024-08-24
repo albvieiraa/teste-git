@@ -8,6 +8,7 @@
 - Day 06 - Elif
 - Day 07 - Nesting
 - Day 08 - Affirmation Generator
+- Day 09 - Int and Float
 
 You can follow my progress at [Reptil/MaryllianVieira](replit.com/@maryllianbackup)
 #Replit100DaysOfCode #100DaysOfCode
