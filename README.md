@@ -15,6 +15,7 @@ This challenge using Python was developed by David and is available on Replit.
 - Day 09 - Int and Float
 - Day 10 - Code Basic Math
 - Day 11 - Calculator of Seconds in a Year
+- Day 12 - Finding Bugs
 
   
 You can follow my progress at [Reptil/MaryllianVieira](replit.com/@maryllianbackup)
