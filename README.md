@@ -16,6 +16,8 @@ This challenge using Python was developed by David and is available on Replit.
 - Day 10 - Code Basic Math
 - Day 11 - Calculator of Seconds in a Year
 - Day 12 - Finding Bugs
+- Day 13 - Exame Grader Calculator
+- Day 14 - Paper, Scissors and Rock
 
   
 You can follow my progress at [Reptil/MaryllianVieira](replit.com/@maryllianbackup)
