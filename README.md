@@ -18,6 +18,8 @@ This challenge using Python was developed by David and is available on Replit.
 - Day 12 - Finding Bugs
 - Day 13 - Exame Grader Calculator
 - Day 14 - Paper, Scissors and Rock
+- Day 15 - All About the Loop (While)
+- Day 16 - Make it Stop (While True)
 
   
 You can follow my progress at [Reptil/MaryllianVieira](replit.com/@maryllianbackup)
