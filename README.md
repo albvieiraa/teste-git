@@ -20,6 +20,8 @@ This challenge using Python was developed by David and is available on Replit.
 - Day 14 - Paper, Scissors and Rock
 - Day 15 - All About the Loop (While)
 - Day 16 - Make it Stop (While True)
+- Day 17 - Let's ~~Cheat~~ Continue
+- Day 18 - Guess the Number
 
   
 You can follow my progress at [Reptil/MaryllianVieira](replit.com/@maryllianbackup)
