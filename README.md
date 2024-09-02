@@ -22,6 +22,7 @@ This challenge using Python was developed by David and is available on Replit.
 - Day 16 - Make it Stop (While True)
 - Day 17 - Let's ~~Cheat~~ Continue
 - Day 18 - Guess the Number
+- Day 18 - Let's Be a Bit Lazy
 
   
 You can follow my progress at [Reptil/MaryllianVieira](replit.com/@maryllianbackup)
