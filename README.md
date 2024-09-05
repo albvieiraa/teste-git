@@ -25,6 +25,7 @@ This challenge using Python was developed by David and is available on Replit.
 - Day 19 - Let's Be a Bit Lazy
 - Day 20 - What Can Range Really Do?
 - Day 21 - Throwback to Math Facts
+- Day 22 - Use other people's code
 
   
 You can follow my progress at [Reptil/MaryllianVieira](replit.com/@maryllianbackup)
