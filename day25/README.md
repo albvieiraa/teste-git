@@ -12,4 +12,7 @@ Let's extend Day 24's project and create a health stats generator for a characte
 - Add a loop to give the user the option to generate health stats for another character.
 
 ## 🐍 Commands used
-
+- import random
+- def subroutine
+- while
+- print(input())
