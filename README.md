@@ -28,6 +28,8 @@ This challenge using Python was developed by David and is available on Replit.
 - Day 22 - Use other people's code
 - Day 23 - Subroutines: The Recipe of Coding
 - Day 24 - Roll in the Parameters
+- Day 25 - Send it Back
+- Day 26 - 
   
 You can follow my progress at [Reptil/MaryllianVieira](replit.com/@maryllianbackup)
 #Replit100DaysOfCode #100DaysOfCode
