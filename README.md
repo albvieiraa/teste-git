@@ -26,7 +26,8 @@ This challenge using Python was developed by David and is available on Replit.
 - Day 20 - What Can Range Really Do?
 - Day 21 - Throwback to Math Facts
 - Day 22 - Use other people's code
-
+- Day 23 - Subroutines: The Recipe of Coding
+- Day 24 - Roll in the Parameters
   
 You can follow my progress at [Reptil/MaryllianVieira](replit.com/@maryllianbackup)
 #Replit100DaysOfCode #100DaysOfCode
