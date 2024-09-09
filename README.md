@@ -29,7 +29,7 @@ This challenge using Python was developed by David and is available on Replit.
 - Day 23 - Subroutines: The Recipe of Coding
 - Day 24 - Roll in the Parameters
 - Day 25 - Send it Back
-- Day 26 - 
+- Day 26 - The Power of Libraries in Games
   
 You can follow my progress at [Reptil/MaryllianVieira](replit.com/@maryllianbackup)
 #Replit100DaysOfCode #100DaysOfCode
