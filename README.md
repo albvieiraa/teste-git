@@ -99,43 +99,43 @@ Este repositório documenta meu progresso no desafio de 100 dias de código. O o
 | Day 61| Reptil DB                          |       |
 | Day 62| Secret Keeper                      |       |
 | Day 63| We Can Split That                  |       |
-| Day 64|                    |       |
-| Day 65|                    |       |
-| Day 66|               |       |
-| Day 67|                          |       |
-| Day 68|                     |       |
-| Day 69|                      |       |
-| Day 70|                        |       |
-| Day 71|       |       |
-| Day 72|                    |       |
-| Day 73|                |       |
-| Day 74|         |       |
-| Day 75|                   |       |
-| Day 76|             |       |
-| Day 77|                           |       |
-| Day 78|                            |       |
-| Day 79|                          |       |
-| Day 80|                   |       |
-| Day 81|                   |       |
-| Day 82|                           |       |
-| Day 83|      |       |
-| Day 84|                    |       |
-| Day 85|                    |       |
-| Day 86|               |       |
-| Day 87|                          |       |
-| Day 88|                     |       |
-| Day 89|                      |       |
-| Day 90|                        |       |
-| Day 91|       |       |
-| Day 92|                    |       |
-| Day 93|               |       |
-| Day 94|         |       |
-| Day 95|                   |       |
-| Day 96|             |       |
-| Day 97|                           |       |
-| Day 98|                            |       |
-| Day 99|                         |       |
-| Day 100|                  |       |
+| Day 64| Oops...                            |       |
+| Day 65| Character Creation                 |       |
+| Day 66| This is getting GUI                |       |
+| Day 67| Guess Who                          |       |
+| Day 68| Hide & Remove                      |       |
+| Day 69| Graphic Novel                      |       |
+| Day 70| For Your Eyes Only                 |       |
+| Day 71| Pass the Salt                      |       |
+| Day 72| Secret Diary 2.0                   |       |
+| Day 73| HTML Crash Course                  |       |
+| Day 74| Add Some Style                     |       |
+| Day 75| Link Tree                          |       |
+| Day 76| Flask                              |       |
+| Day 77| Slim Down                          |       |
+| Day 78| Reflections                        |       |
+| Day 79| Yakkety Yak!                       |       |
+| Day 80| Incoming                           |       |
+| Day 81| Im' Not a Robot                    |       |
+| Day 82| Don't Stop 'til You Get            |       |
+| Day 83| Custom Themes                      |       |
+| Day 84| Client Server Logins               |       |
+| Day 85| Don't Be Stateless                 |       |
+| Day 86| Blog Time                          |       |
+| Day 87| Authenticate                       |       |
+| Day 88| Authenticate Finesse               |       |
+| Day 89| Community Chat App                 |       |
+| Day 90| Jason? JSON?                       |       |
+| Day 91| The Joke's on You!                 |       |
+| Day 92| What's the Wheater?                |       |
+| Day 93| What's Your Top Ten?               |       |
+| Day 94| API Mashup                         |       |
+| Day 95| Daily Track Generator              |       |
+| Day 96| Let's Get Scraping                 |       |
+| Day 97| Summarize Anything                 |       |
+| Day 98| Automate! Automate!                |       |
+| Day 99| Scrape the Community Hub           |       |
+| Day 100| Product Price Scraper             |       |
 
   
 Você pode acompanhar meu progresso também no [Reptil/MaryllianVieira](replit.com/@maryllianbackup)
