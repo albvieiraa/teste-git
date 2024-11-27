@@ -4,9 +4,9 @@
 - Criar uma receita usando concatenação
   
 ## O que fiz 💻
-- Importei a biblioteca `os` e `time`
-- Criei uma lista vazia `myList` para armazenar os itens posteriormente
-- Condicional if/elif/else para escolher o que fazer na lista.
+- Declaração de variaveis relacionadas à receitas
+- `input` para armazenar os valores nas variáveis
+- `print` com a concatenação das variáveis
   
 ## Como executar ⏯️
 No terminal, execute:
