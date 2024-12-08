@@ -1,13 +1,14 @@
 # Day 36 - That's Not My Name
 
 ## Objetivo 🎯
-- Criar uma **Calculadora de Empréstimos** que mostre quanto dinheiro se deve por um empréstimo de $1.000 com uma TAEG de 5% *(TAEG é a abreviatura de Taxa Anual Percentual)* durante 10 anos.
-Isso significa que, a cada ano, o valor da dívida aumentará 5%.
+- Criar uma lista vazia que armazena o nome completo que o usuário insere.
 
 ## O que fiz 💻
 
-- Loop `for` que irá iterar 10 vezes, representando 10 anos.
-- `loan += interest` soma o valor do juros calculado ao valor atual do empréstimo.
+- Função `def printList()` para imprimir a lista com os nomes
+- Loop `while True` para adicionar os nomes
+- `f-string` para unir as variáveis com os nomes
+- Métodos `.strip()` e `.capitalize()` para uniformizar os nomes inseridos, evitando duplicatas.
 
 ## Como executar ⏯️
 No terminal, execute:
