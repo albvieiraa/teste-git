@@ -1,5 +1,13 @@
-# All about the Loop
+# Day 15 - All about the Loop
 
-On this challenge number 15, I used the 'while' loop to guess the animal sound that the user entered.
+## Objetivo 🎯
+- Mostrar o som que um animal faz baseado na escolha no usuário.
 
-Compared to use 'if...elif...else' loop, 'while' can turn the code less complex and I could use fewer lines of code too.
+## O que fiz 💻
+
+- Uso do loop `while` para tornar o código menos complexo
+
+## Como executar ⏯️
+No terminal, execute:
+```bash
+python main.py
