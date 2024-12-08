@@ -1,4 +1,4 @@
-# Day 19 - Let's Be a Bit Lazy
+# Day 36 - That's Not My Name
 
 ## Objetivo 🎯
 - Criar uma **Calculadora de Empréstimos** que mostre quanto dinheiro se deve por um empréstimo de $1.000 com uma TAEG de 5% *(TAEG é a abreviatura de Taxa Anual Percentual)* durante 10 anos.

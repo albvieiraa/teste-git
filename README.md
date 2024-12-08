@@ -71,7 +71,7 @@ Este repositório documenta meu progresso no desafio de 100 dias de código. O o
 | Day 33| Getting Dynamic                    | ✅      |
 | Day 34| Pretty Printing                    | ✅      |
 | Day 35| The ULTIMATE List Maker            | ✅      |
-| Day 36| That's Not My Name                 |       |
+| Day 36| That's Not My Name                 |✅       |
 | Day 37| Slice it Up!                       |       |
 | Day 38| Code the Rainbow                   |       |
 | Day 39| Hangman                            |       |
