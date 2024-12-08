@@ -1,7 +1,15 @@
-# Let's Be a Bit Lazy
+# Day 19 - Let's Be a Bit Lazy
 
-Using loop 'for' with the function 'range()' to creat a loop that we have an idea of how many times we want the loop to repeat.
+## Objetivo 🎯
+- Criar uma **Calculadora de Empréstimos** que mostre quanto dinheiro se deve por um empréstimo de $1.000 com uma TAEG de 5% *(TAEG é a abreviatura de Taxa Anual Percentual)* durante 10 anos.
+Isso significa que, a cada ano, o valor da dívida aumentará 5%.
 
-## Challenge
-Create a Loan Calculator that shows how much money you owe for a loan of $1,000 with a 5% APR (APR is fancy for Annual Percentage Rate) over 10 years.
-This means each year the amount of money you owe will increase 5%.
+## O que fiz 💻
+
+- Loop `for` que irá iterar 10 vezes, representando 10 anos.
+- `loan += interest` soma o valor do juros calculado ao valor atual do empréstimo.
+
+## Como executar ⏯️
+No terminal, execute:
+```bash
+python main.py
