@@ -1,7 +1,16 @@
-# Guess the Number
+# Day 18 - Guess the Number
 
-As the title suggest, the user has to guess a random number.
-For this challenge, I choose to import 'random' and use a range 1 to 100.
-Also, I added some conditions:
-* The user has 5 attempts to guesse the rigth number
-* If the user enters a number smaller than the range, he/she will have another chance - instead of exit the game.
+## Objetivo 🎯
+- Adivinhar um número dentro de um intervalo de 1 a 100.
+
+## O que fiz 💻
+
+- Importar `random` para gerar valores aleatórios dentro do intervalo.
+- Foram adicionados também algumas condições adicionais:
+    - O usuário tem 5 tentativas de acertar;
+    - Se o usuário entrar com menor que o intervalo estabelecido, ele terá outra chance ao invés de sair do jogo.
+
+## Como executar ⏯️
+No terminal, execute:
+```bash
+python main.py
