@@ -1,6 +1,16 @@
-# Let's ~~Cheat~~ Continue
+# Day 17 - Let's ~~Cheat~~ Continue
 
-In this code, I used the 'continue' command to stop executing code in the loop and start at the top of the loop again.
-Also, I used the 'exit()' command to stop completely the program and it will not run any more lines of code.
+## Objetivo 🎯
+- Atualização do jogo *Pedra, Papel ou Tesoura* do **Day 14**
 
-I reedited the code from day 14 'Rock, Paper and Scissors', putting the if..elif..else conditions inside loop 'While True', making it stops with 'exit()' when the players scores were equal 3.
+## O que fiz 💻
+
+- Módulo `getpass` para ocultar a resposta do usuário
+- Implementação da contagem de pontos de cada jogador
+- Comando `continue` retornando o código do início
+- Uso do loop `while True` e interrompendo o código quando o score for igual a 3.
+
+## Como executar ⏯️
+No terminal, execute:
+```bash
+python main.py
