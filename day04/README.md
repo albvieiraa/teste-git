@@ -1,4 +1,4 @@
-# Day 4 - Printing
+# Day 04 - Printing
 
 ## Objetivo 🎯
 - Usar a função `print` para contar uma história

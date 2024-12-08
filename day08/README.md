@@ -1,4 +1,4 @@
-# Day 07 - Nesting
+# Day 08 - Affirmation Generat
 
 ## Objetivo 🎯
 - Adivinhar qual o programa de TV favorito do usuário

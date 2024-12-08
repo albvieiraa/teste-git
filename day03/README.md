@@ -1,4 +1,4 @@
-# Day 3 - Concatenation
+# Day 03 - Concatenation
 
 ## Objetivo 🎯
 - Criar uma receita usando concatenação

@@ -1,4 +1,4 @@
-# Day 6 - Elif
+# Day 06 - Elif
 
 ## Objetivo 🎯
 - Criar um login com password já armazenados
