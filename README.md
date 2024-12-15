@@ -74,7 +74,7 @@ Este repositório documenta meu progresso no desafio de 100 dias de código. O o
 | Day 36| That's Not My Name                 | ✅      |
 | Day 37| Slice it Up!                       | ✅      |
 | Day 38| Code the Rainbow                   | ✅      |
-| Day 39| Hangman                            |       |
+| Day 39| Hangman                            | ✅      |
 | Day 40| Dictionaries                       |       |
 | Day 41| I've Lost My Keys                  |       |
 | Day 42| MokeBeast                          |       |
