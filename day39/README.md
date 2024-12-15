@@ -1,14 +1,15 @@
 # Day 39 - Hangman
 
 ## Objetivo 🎯
-- Transformar uma sentença inserida pelo usuário em um "arco-iris".
+- Desenvolver um "Jogo da Forca", também conhecido como "Hangman".
 
 ## O que fiz 💻
 
-- Defini uma variável-lista para cada cor
-- Criei um loop `for` com condicionais para trocar a cor da letra contida na frase do usuário
-- `print('\033[0m', end='')` para retornar à cor original
-- Imprimi a frase original e a mesma "arcoirizada"
+- Implementei um sistema de 6 tentativas para o jogador.
+- Adicionei validação para entradas inválidas e letras repetidas.
+- Criei a exibição dinâmica da palavra com traços (_) substituídos por letras corretas.
+- Registrei letras já tentadas para evitar repetições.
+- Exibi mensagens de vitória ou derrota ao final do jogo.
 
 ## Como executar ⏯️
 No terminal, execute:
