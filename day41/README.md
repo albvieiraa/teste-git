@@ -5,9 +5,8 @@
 
 ## O que fiz 💻
 
-- Criei a função `def contact_list()` para criar a lista de usuários
-- Atribuí o `.title()` à variável `name` para melhor vizualiação
-- Criei o dicionário `info` e a variável `message`
+- Criei a função `def creatWebsite()` para criar o dicionário com as informações do site
+- `print(f"{key.capitalize()}:{value}")` para imprimir a chave e o valor do dicionário
 
 ## Como executar ⏯️
 No terminal, execute:
