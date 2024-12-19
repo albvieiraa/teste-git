@@ -76,7 +76,7 @@ Este repositório documenta meu progresso no desafio de 100 dias de código. O o
 | Day 38| Code the Rainbow                   | ✅      |
 | Day 39| Hangman                            | ✅      |
 | Day 40| Dictionaries                       | ✅      |
-| Day 41| I've Lost My Keys                  |       |
+| Day 41| I've Lost My Keys                  | ✅      |
 | Day 42| MokeBeast                          |       |
 | Day 43| Taking List to a New Dimension     |       |
 | Day 44| Dynamic 2D Lists                   |       |
