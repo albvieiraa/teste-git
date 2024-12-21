@@ -1,12 +1,12 @@
 # Day 42 - MokeBeast
 
 ## Objetivo 🎯
-- Implementar um dicionário com informações sobre um website
+- Implementar um dicionário com informações sobre um "MokéMonster"
 
 ## O que fiz 💻
 
-- Criei a função `def creatWebsite()` para criar o dicionário com as informações do site
-- `print(f"{key.capitalize()}:{value}")` para imprimir a chave e o valor do dicionário
+- Criei a função `def game()` para criar o dicionário com as informações
+- loop `for` com `if/elif` condicionais para selecionar a cor do texto de acordo com o tipo do mostro
 
 ## Como executar ⏯️
 No terminal, execute:
