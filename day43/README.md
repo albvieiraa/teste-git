@@ -1,12 +1,13 @@
 # Day 43 - Taking List to a New Dimension
 
 ## Objetivo 🎯
-- Implementar um dicionário com informações sobre um "MokéMonster"
+- Criar um bingo 3x3 com números aleatórios e a palavra **BINGO** centralizada
 
 ## O que fiz 💻
 
-- Criei a função `def game()` para criar o dicionário com as informações
-- loop `for` com `if/elif` condicionais para selecionar a cor do texto de acordo com o tipo do mostro
+- Criei a função `def generateBingo()` + biblioteca `import` para gerar os números aleatórios
+- `.sample()` garante que os números não se repitam
+- A função `def displayCard(card)` irá mostrar a cartela de bingo na tela
 
 ## Como executar ⏯️
 No terminal, execute:
