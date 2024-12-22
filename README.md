@@ -78,7 +78,7 @@ Este repositório documenta meu progresso no desafio de 100 dias de código. O o
 | Day 40| Dictionaries                       | ✅      |
 | Day 41| I've Lost My Keys                  | ✅      |
 | Day 42| MokeBeast                          | ✅      |
-| Day 43| Taking List to a New Dimension     |       |
+| Day 43| Taking List to a New Dimension     | ✅      |
 | Day 44| Dynamic 2D Lists                   |       |
 | Day 45| Get it 'to done'                   |       |
 | Day 46| Dictionaries are Back              |       |
