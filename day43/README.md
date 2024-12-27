@@ -5,7 +5,7 @@
 
 ## O que fiz 💻
 
-- Criei a função `def generateBingo()` + biblioteca `import` para gerar os números aleatórios
+- Criei a função `def generateBingo()` + biblioteca `random` para gerar os números aleatórios
 - `.sample()` garante que os números não se repitam
 - A função `def displayCard(card)` irá mostrar a cartela de bingo na tela
 
