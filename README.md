@@ -82,7 +82,7 @@ Este repositório documenta meu progresso no desafio de 100 dias de código. O o
 | Day 44| Dynamic 2D Lists                   | ✅      |
 | Day 45| Get it 'to done'                   | ✅      |
 | Day 46| Dictionaries are Back              | ✅      |
-| Day 47| Top Trumps                         |       |
+| Day 47| Top Trumps                         | ✅      |
 | Day 48| Saving to Files                    |       |
 | Day 49| Reading a File                     |       |
 | Day 50| Idea Storage                       |       |
