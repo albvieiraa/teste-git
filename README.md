@@ -86,8 +86,8 @@ Este repositório documenta meu progresso no desafio de 100 dias de código. O o
 | Day 48| Saving to Files                    | ✅      |
 | Day 49| Reading a File                     | ✅      |
 | Day 50| Idea Storage                       | ✅      |
-| Day 51| You Save/Load Your Data in...      |       |
-| Day 52| Brace for Impact                   |       |
+| Day 51| You Save/Load Your Data in...      | ✅      |
+| Day 52| Brace for Impact                   | ✅      |
 | Day 53| Video Game Inventory               |       |
 | Day 54| Comma', Separated'... What?        |       |
 | Day 55| Back the 'f' up?!                  |       |
