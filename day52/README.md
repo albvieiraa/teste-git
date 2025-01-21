@@ -1,7 +1,8 @@
 # Day 52 - Brace for Impact
 
 ## Objetivo 🎯
--  Este programa tem como objetivo facilitar a gestão de pedidos de pizza. Ele permite que você adicione novos pedidos, visualize todos os pedidos realizados e acompanhe o valor total de cada um. Os dados dos pedidos são salvos em um arquivo para que você possa acessá-los posteriormente.
+
+Este programa tem como objetivo facilitar a gestão de pedidos de pizza. Ele permite que você adicione novos pedidos, visualize todos os pedidos realizados e acompanhe o valor total de cada um. Os dados dos pedidos são salvos em um arquivo para que você possa acessá-los posteriormente.
   
 ## O que fiz 💻
 - Lê e escreve em arquivos: Interage com o sistema de arquivos para salvar e carregar os dados dos pedidos.
