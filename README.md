@@ -89,9 +89,9 @@ Este repositório documenta meu progresso no desafio de 100 dias de código. O o
 | Day 51| You Save/Load Your Data in...      | ✅      |
 | Day 52| Brace for Impact                   | ✅      |
 | Day 53| Video Game Inventory               | ✅      |
-| Day 54| Comma', Separated'... What?        |       |
-| Day 55| Back the 'f' up?!                  |       |
-| Day 56| Music Streaming Service            |       |
+| Day 54| Comma', Separated'... What?        | ✅      |
+| Day 55| Back the 'f' up?!                  | ✅      |
+| Day 56| Music Streaming Service            | ✅      |
 | Day 57| Recursion                          |       |
 | Day 58| Debugger                           |       |
 | Day 59| Palindrome                         |       |
